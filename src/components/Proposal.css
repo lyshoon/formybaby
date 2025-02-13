@@ -1,0 +1,58 @@
+.proposal-container button {
+    font-size: 14px; 
+    padding: 6px 12px; 
+    width: 80px; 
+    height: 40px; 
+    border: 2px solid #ff69b4; 
+    border-radius: 30px;
+    background: linear-gradient(135deg, #ff99cc, #cc66ff); 
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+    display: inline-block; 
+    text-align: center;
+}
+  
+.proposal-container button:hover {
+    transform: scale(1.05);
+    background: linear-gradient(135deg, #ff66a3, #b266ff);
+}
+
+.proposal-container motion.button {
+    width: 100px !important;
+    height: 40px !important;
+    font-size: 14px !important;
+}
+
+.proposal-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .proposal-gif {
+    width: 300px !important; 
+    height: 300px !important;
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+
+.floating-heart {
+    position: absolute;
+    color: red;
+    font-size: 20px;
+    animation: floatUp 3s linear infinite;
+  }
+  
+  @keyframes floatUp {
+    0% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+    100% {
+      transform: translateY(-100vh);
+      opacity: 0;
+    }
+  }
+  
+  
+  
