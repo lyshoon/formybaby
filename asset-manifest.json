@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/formybaby/static/css/main.f5b210b3.css",
-    "main.js": "/formybaby/static/js/main.cb2cb298.js",
+    "main.js": "/formybaby/static/js/main.21257479.js",
     "static/js/488.8b4aead8.chunk.js": "/formybaby/static/js/488.8b4aead8.chunk.js",
     "static/media/pp.jpeg": "/formybaby/static/media/pp.0b2683daadd2680000bb.jpeg",
     "static/media/ss.jpeg": "/formybaby/static/media/ss.e88f55fbac4160acf7f5.jpeg",
     "static/media/cp.JPG": "/formybaby/static/media/cp.b9e0ca722c3a1a1e5b4e.JPG",
     "index.html": "/formybaby/index.html",
     "main.f5b210b3.css.map": "/formybaby/static/css/main.f5b210b3.css.map",
-    "main.cb2cb298.js.map": "/formybaby/static/js/main.cb2cb298.js.map",
+    "main.21257479.js.map": "/formybaby/static/js/main.21257479.js.map",
     "488.8b4aead8.chunk.js.map": "/formybaby/static/js/488.8b4aead8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5b210b3.css",
-    "static/js/main.cb2cb298.js"
+    "static/js/main.21257479.js"
   ]
 }
