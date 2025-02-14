@@ -9,7 +9,7 @@ function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
 
   return (
-    <Router basename="/for-only-seunghwan/formybaby">
+    <Router basename="/formybaby">
       <div className="app-container">
         <Routes>
           {/* Login Page */}
