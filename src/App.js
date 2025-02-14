@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import Login from "./components/Login";
 import Memories from "./components/Memories";
 import Proposal from "./components/Proposal";
@@ -9,7 +9,7 @@ function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
 
   return (
-    <Router basename="/formybaby">
+    <Router>
       <div className="app-container">
         <Routes>
           {/* Login Page */}
